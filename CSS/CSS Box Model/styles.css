@@ -1,0 +1,28 @@
+.red {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid black;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border:  solid black;
+    /* border:20px solid black ; */
+    /* border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black; */
+    border-width: 20px 10px;
+    margin-left: 300px;
+}
+.green{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    /* padding-left: 200px; */
+    margin-left: 50px;
+}

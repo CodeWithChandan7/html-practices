@@ -1,0 +1,27 @@
+/* body{
+    border: 10px solid rgb(98, 8, 8);
+} */
+.box{
+    background-color: blue;
+    padding: 10px;
+    /* border: 10px solid purple; */
+}
+.inner-box{
+    background-color: red;
+}
+p{
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    
+}
+.white-text{
+    color: white;
+    /* background-color: red; */
+    /* height: 30px; */
+    /* width: 30px; */
+    /* text-align: left; */
+}
+#outer-box{
+    background-color: purple;
+}

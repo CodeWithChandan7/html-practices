@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(156, 156, 237);
+    height: 34344px;
+}
+.box{
+    display: inline-block;
+    border: 2px solid rgb(255, 2, 2);
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+#box3{
+    position: sticky;
+    /* right: 4px;
+    bottom: 2px; */
+}

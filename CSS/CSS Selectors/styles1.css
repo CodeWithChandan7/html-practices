@@ -1,0 +1,18 @@
+h1, h2{
+    color: blueviolet;
+}
+.box > p{
+    color: firebrick;
+}
+.box li {
+    color: blue;
+}
+li.done{
+    color: seagreen;
+}
+/* .box li.done{
+    color: aqua;
+} */
+ul p.done {
+    font-size: .5rem;
+}

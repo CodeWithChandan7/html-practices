@@ -1,0 +1,15 @@
+div{
+    background-color: blue;
+    padding: 10px;
+}
+p{
+    color: yellow;
+    /* background-color: blue; */
+}
+.inner-box{
+    background-color: red;
+}
+.inner-box p{
+    color: white;
+    /* background-color: red; */
+}
